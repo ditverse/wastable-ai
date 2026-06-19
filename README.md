@@ -1,14 +1,4 @@
-# PRD-00 — Wastable: Overview & Konsep Produk
-
-| Atribut | Detail |
-|---|---|
-| Versi | 1.0.0 |
-| Status | Draft |
-| Terakhir diperbarui | 2026 |
-| Konteks | Lomba #JuaraVibeCoding — Google for Developers Indonesia |
-| Penulis | Raditya Rizki R |
-
----
+# Wastable: Overview & Konsep Produk
 
 ## Daftar Isi
 
